@@ -15,21 +15,23 @@ You can install the required libraries using pip:
 ```bash  
 pip install pandas numpy scikit-learn
 
-Running the Jupyter Notebook
+## Running the Jupyter Notebook
 Clone this repository to your local machine:
 
-bash
+```bash 
 git clone https://github.com/yourusername/fertilizer_type_prediction.git  
 (Make sure to replace yourusername with your actual GitHub username.)
 
-Navigate to the project directory:
+## Navigate to the project directory:
 
-bash
+```bash 
 cd fertilizer_type_prediction  
+
 Launch Jupyter Notebook:
 
-bash
+```bash 
 jupyter notebook  
+
 In the Jupyter interface, open the file named fertilizer_type_new.ipynb.
 
 Follow the instructions in the notebook to run the analysis and make predictions.
