@@ -1,37 +1,36 @@
-# Fertilizer Type Prediction  
+Fertilizer Type Prediction
+This project aims to predict the type of fertilizer needed for optimal plant growth using a machine learning model. The Jupyter Notebook provided walks you through the necessary steps for data preparation, model training, and prediction.
 
-This repository contains a Jupyter notebook for predicting the optimal fertilizer type based on various factors such as soil conditions, crop type, and other relevant features.  
+Requirements
+To run this project, you need to have the following Python libraries installed:
 
-## Prerequisites  
-
-Before running the notebook, ensure you have the following installed:  
-
-- Python 3.x  
-- Jupyter Notebook  
-- Required Python libraries (e.g., pandas, numpy, scikit-learn)  
-
-You can install the required libraries using pip:  
-
-```bash  
+bash
+Copy code
 pip install pandas numpy scikit-learn
+Running the Project
+Follow these steps to run the project on your local machine:
 
-## Running the Jupyter Notebook
-Clone this repository to your local machine:
+Step 1: Clone the Repository
+Clone the project repository to your local machine by running:
 
-```bash 
-git clone https://github.com/yourusername/fertilizer_type_prediction.git  
-(Make sure to replace yourusername with your actual GitHub username.)
+bash
+Copy code
+git clone https://github.com/yourusername/fertilizer_type_prediction.git
+Replace yourusername with your actual GitHub username.
 
-## Navigate to the project directory:
+Step 2: Navigate to the Project Directory
+Change your current directory to the project folder:
 
-```bash 
-cd fertilizer_type_prediction  
+bash
+Copy code
+cd fertilizer_type_prediction
+Step 3: Launch Jupyter Notebook
+Start the Jupyter Notebook server by running:
 
-Launch Jupyter Notebook:
+bash
+Copy code
+jupyter notebook
+In the Jupyter Notebook interface, open the file named fertilizer_type_new.ipynb.
 
-```bash 
-jupyter notebook  
-
-In the Jupyter interface, open the file named fertilizer_type_new.ipynb.
-
-Follow the instructions in the notebook to run the analysis and make predictions.
+Step 4: Run the Analysis
+Follow the instructions provided in the notebook to run the data analysis and make predictions.
